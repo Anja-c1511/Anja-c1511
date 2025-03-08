@@ -9,7 +9,7 @@ Exploring **Data Science, AI & ML** | Building **Conversational AI for Traffic E
 - **Frameworks, Libraries & APIs:** Numpy, Pandas, Scikit-learn, Flask, FastAPI, Stream-lit
 - **Databases:** SQL (MySQL, MS SQL Server)
 - **Data Visualization:** Power BI, Tableau Matplotlib, Seaborn
-- #(**Big Data Tools:** Apache Spark, Kafka)
+<!-- - **Big Data Tools:** Apache Spark, Kafka -->
 - **Version Control & Project Management:** GitHub, Vs Code, JIRA
 
 ## 🌱 I’m currently working on
