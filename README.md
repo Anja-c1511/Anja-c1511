@@ -27,8 +27,6 @@ Exploring **Data Science, AI & ML** | Building **Conversational AI for Traffic E
 
 ## 📊 GitHub Stats
 ![Anjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anja-c1511&show_icons=true&theme=dark)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anja-c1511&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=Anja-c1511&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 
 ## 🚀 Let's Collaborate!
 If you're passionate about **Data Science, AI or ML**, feel free to connect with me! 😊
